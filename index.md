@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Link to [new page](streetcar.html).
+Link to [new page](streetcar.md).
 
 ### Markdown
 
